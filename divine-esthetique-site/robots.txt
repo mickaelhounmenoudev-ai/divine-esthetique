@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://divine-esthetique-bj.vercel.app/sitemap.xml
